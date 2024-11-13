@@ -1,5 +1,6 @@
 1
-2
+2stroka+
+3minus
 3
 
 5
