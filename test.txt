@@ -1,6 +1,7 @@
 1
 2stroka+
 3
+lok1 лок
 
 5
 fix
