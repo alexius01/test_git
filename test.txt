@@ -1,7 +1,8 @@
 12222
 2stroka+
 3
-lok1 лок
+lok1
+new branch
 
 5
 fix
